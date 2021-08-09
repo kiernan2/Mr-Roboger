@@ -32,3 +32,5 @@ Expected Output: Boop!
 
 Code: numberConverter(16)
 Expected Output: Beep!
+
+The webpage receives two variables a number and a name the number and name are then passed into the a rainmaker function which first creates array by counting up to the number, number and name are then passed into the number converter function which converts numbers containing 1 2 and 3 into the strings the assignment suggests

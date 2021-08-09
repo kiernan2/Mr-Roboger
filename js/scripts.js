@@ -19,18 +19,17 @@ function arrayMaker(number, name) {
   }
   array.forEach(function(number) {
     newArray[number] = numberConverter(number, name);
-  })
+  });
   return newArray
 }
 
-console.log(numberConverter(3, "bob"))
 // UI logic
 
 $(document).ready(function() {
   $("#formOne").submit(function() {
     event.preventDefault();
-    let input = ($("input#input").val());
-    let input2 = ($("input#inputTwo").val());
-    $("#output").html(arrayMaker(input, input2));
+    let number = ($("input#input").val());
+    let name = ($("input#inputTwo").val());
+    $("#output").html(arrayMaker(number, name));
   })
 })
