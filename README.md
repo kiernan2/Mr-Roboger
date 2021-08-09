@@ -23,3 +23,12 @@ Expected Output: Boop!
 
 Code: numberConverter(3)
 Expected Output: Won't you be my neighbor?
+
+Code: numberConverter(31)
+Expected Output: Won't you be my neighbor?
+
+Code: numberConverter(12)
+Expected Output: Boop!
+
+Code: numberConverter(16)
+Expected Output: Beep!
