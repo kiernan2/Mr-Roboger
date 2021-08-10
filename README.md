@@ -1,5 +1,3 @@
-# _Kiernan's Portfolio_
-
 #### _Mr-Roboger_
 
 #### By _**Kiernan Beattie**_
