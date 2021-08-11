@@ -32,6 +32,7 @@ _©Kiernan Beattie 2021_
 
 _kiernan1994@gmail.com_
 
+## Specs
 
 The webpage receives two variables a number and a name the number and name are then passed into the a rainmaker function which first creates array by counting up to the number, number and name are then passed into the number converter function which converts numbers containing 1 2 and 3 into the strings the assignment suggests
 
